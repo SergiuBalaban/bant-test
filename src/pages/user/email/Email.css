@@ -1,0 +1,32 @@
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.emailContent {
+    height: 500px;
+    width: 100%;
+}
+
+.emailButtons {
+    height: 60px;
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    height: 30px;
+    border-radius: 5px;
+    min-width: 100px;
+    margin: 0 20px;
+}
+
+.emailBody {
+    margin: 0 30px;
+    height: 500px;
+    border: 1px solid black;
+}

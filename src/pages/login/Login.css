@@ -1,0 +1,33 @@
+.loginSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.loginInputs {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.loginText {
+    margin-bottom: 2px;
+}
+
+input {
+    width: 100%;
+    height: 30px;
+}
+
+.loginBtn {
+    width: 100%;
+    margin: 10px 0;
+    height: 40px;
+}
+
+.errorMessage {
+    color: red;
+    display: none;
+    text-align: center;
+}
